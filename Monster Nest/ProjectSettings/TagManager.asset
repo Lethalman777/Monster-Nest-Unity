@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CaveWallTag
+  - MonsterTag
+  - UipanelTag
+  - TreasureTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1698828723
+    locked: 0
+  - name: caveWalls
+    uniqueID: 3805313295
+    locked: 0
+  - name: mapObjects
+    uniqueID: 1989666707
+    locked: 0
+  - name: Panels
+    uniqueID: 3343554099
+    locked: 0
